@@ -1,2 +1,2 @@
 # Zxwar-Bot
-Zxwar Bot Discord With discord.js v13
+Zxwar Bot in multypuporse bot discord and
