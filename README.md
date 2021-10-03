@@ -12,6 +12,9 @@ npm start
 ```
 
 ## credits
-• WearTime
-• Lota
-• Reconlx
+- WearTime
+- Lota
+- Reconlx
+
+## support
+[Donate Trakteer](https://trakteer.id/badriian24)
