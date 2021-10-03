@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 ## Ano
-if you find a bug please report to issues
+if you find a bug please report to [issues](https://github.com/badriian24/Zxwar-Bot/issues)
 
 ## credits
 - WearTime
