@@ -10,6 +10,8 @@ npm install
 ```
 npm start
 ```
+## Ano
+if you find a bug please report to issues
 
 ## credits
 - WearTime
