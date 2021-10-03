@@ -10,3 +10,8 @@ npm install
 ```
 npm start
 ```
+
+## credits
+• WearTime
+• Lota
+• Reconlx
