@@ -1,0 +1,9 @@
+{
+    "prefix": "b!",
+		"embedcolor": "BLACK",
+    "mongooseConnectionString": "mongodb+srv://bdrxzzzz:12345@zxwarbot.ktotk.mongodb.net/myTwoDatabase",
+	"owners": [
+		"776714971782053889",
+		"829557013376663583"
+	]
+}
