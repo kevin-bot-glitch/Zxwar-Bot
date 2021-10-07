@@ -10,13 +10,15 @@ npm install
 ```
 npm start
 ```
-## Ano
+## Bug?
 if you find a bug please report to [issues](https://github.com/badriian24/Zxwar-Bot/issues)
 
-## credits
+## Credits
 - WearTime
 - Lota
 - Reconlx
 
-## support
+## Support
 [Donate Trakteer](https://trakteer.id/badriian24)
+
+[Support Server](https://discord.com/invite/rCPdnEqPgx)
